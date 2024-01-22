@@ -62,3 +62,23 @@ The project is organized into several functions and includes a main script for d
    ```bash
    pip install pandas scipy matplotlib numpy
 
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/KaanBaspinar00/GammaSpec.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd GammaSpec
+    ```
+
+3. Run the program:
+
+    ```bash
+    python in_one_py.py
+    ```
+
